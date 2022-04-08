@@ -1,0 +1,5 @@
+verbosity=7
+prefix=boot/
+rootfstype=ext4
+extraargs=audit=0 rw
+rootdev=/dev/mmcblk0p1
